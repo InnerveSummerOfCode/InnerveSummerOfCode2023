@@ -1,12 +1,12 @@
-# Innerve Summer Of Code 2023
-<img src="https://giphy.com/stickers/ghost-spooky-spoopy-j44PPXtxqmlCCfLUbk" width="200"/><br/>
+# Innerve Summer Of Code 2023 
+<iframe src="https://giphy.com/embed/j44PPXtxqmlCCfLUbk" width="371" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghost-spooky-spoopy-j44PPXtxqmlCCfLUbk"></a></p>
 Welcome to the ISOC'23 🎉🎉🎉 .ISOC is an open-source program that is framed to help students explore the world of technology better by working on projects of different tracks. The program has the following tracks:<br/>
 - App Development 📱<br/>
   Elderly care system (Flutter-based app)-<br/>
 - UI/UX 👩🏻‍🎨<br/>
   Nature meets Technology & Retrofuturism (Figma)- [UI/UX](https://github.com/InnerveSummerOfCode/UI-UX2023)<br/>
 - AI/ML 🤖<br/>
-  Retrofuturism image captioning (Python)-[Image_Captioning] (https://github.com/InnerveSummerOfCode/AI-Ml2023)<br/>
+  Retrofuturism image captioning (Python)-[Image_Captioning](https://github.com/InnerveSummerOfCode/AI-Ml2023)<br/>
 - Web Development 💻<br/>
   E-Museum (HTML,CSS,JS)- [E-Museum](https://github.com/InnerveSummerOfCode/ISOC-23-WEBD)<br/>
 - fastn projects (WebD track) 🧑🏻‍💻<br/>
@@ -19,7 +19,7 @@ Welcome to the ISOC'23 🎉🎉🎉 .ISOC is an open-source program that is fram
 
   
 ## Guidelines ✅
-- Firstly you will have to register for the program on the given link (https://docs.google.com/forms/d/e/1FAIpQLSdIkA6eotbBwu2SB0x-zDj-5ZtCd3bspMabdpqiVZVkk2WA0w/viewform)<br/>
+- Firstly you will have to register for the program on the given link [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdIkA6eotbBwu2SB0x-zDj-5ZtCd3bspMabdpqiVZVkk2WA0w/viewform)<br/>
 - The repos mentioned above contain a proper explanation in their respective readme files about how to contribute to a particular track. Please read them carefully and stick to the same.<br/>
 - You can contribute to more than one repos<br/>
 - Only the final product will be evaluated on the basis of the number of issues solved, the quality and functioning of the code<br/>
