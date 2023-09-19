@@ -24,6 +24,7 @@ Welcome to ISOC'23 🎉🎉🎉 ISOC is an open-source program that is framed to
 - Only the final product will be evaluated on the basis of the number of issues solved, the quality and functioning of the code<br/>
 - You will be required to submit your final GitHub repo and a video showing the functioning.
 - Submission form will be releaded on 26th September on [ISoC's Discord Server](https://discord.gg/vXwBDzba) and will remain open till 2nd October 2023
+- Participants will need to submit the github link of their version of the given base projects and its working demo video.
 
 
 ### Useful links 🔗
@@ -37,6 +38,8 @@ Welcome to ISOC'23 🎉🎉🎉 ISOC is an open-source program that is framed to
 - Contribution Period- 20th September to 2nd October<br/>
 - Submission Starts- 26th September<br/>
 - Results- 7th October<br/>
+
+## Prizes Worth 25K+ 💰
 
 For inquiries reach out to innervesummerofcode@gmail.com. All the Best! 
 
