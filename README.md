@@ -1,5 +1,4 @@
 # Innerve Summer Of Code 2023 
-<iframe src="https://giphy.com/embed/j44PPXtxqmlCCfLUbk" width="371" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghost-spooky-spoopy-j44PPXtxqmlCCfLUbk"></a></p>
 Welcome to the ISOC'23 🎉🎉🎉 .ISOC is an open-source program that is framed to help students explore the world of technology better by working on projects of different tracks. The program has the following tracks:<br/>
 - App Development 📱<br/>
   Elderly care system (Flutter-based app)-<br/>
